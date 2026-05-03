@@ -1,0 +1,2 @@
+# Smart-Irrigation-System-with-Rain-Detection-using-Arduino
+This project is a Smart Irrigation System built using Arduino. It automatically monitors soil moisture and rain conditions to determine whether plants need watering. The system helps optimize water usage by avoiding unnecessary irrigation, especially during rainfall.It also includes a manual mode that allows the user to control the system directly.
