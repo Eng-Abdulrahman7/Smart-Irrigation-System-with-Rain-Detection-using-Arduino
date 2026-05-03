@@ -167,4 +167,18 @@ void loop() {
 
 ## Project Image
 
+This image was taken in dry soil conditions.
 ![Image 1](p1.jpeg)
+
+
+This image was taken in moist soil.
+
+![Image 1](p2.jpeg)
+
+
+This image was taken when it was raining.
+![Image 1](p3.jpeg)
+
+
+This image is in a state of pressure on the push button (all sensors are not used).
+![Image 1](p4.jpeg)
