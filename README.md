@@ -155,6 +155,12 @@ void loop() {
       digitalWrite(buzzer, HIGH);
     }
 
+
+    THIS IMAGE WAS TAKEN IN DRY SOIL CONDITIONS.
+
+    ![Project image](p1.jpeg)
+    
+
     else {
       // 🌱 Soil is in good condition → no watering needed
       digitalWrite(greenLED, HIGH);
